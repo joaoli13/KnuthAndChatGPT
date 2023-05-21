@@ -1,4 +1,4 @@
-# KnuthAndChatGPT
+# GPT-4's analysis and inference about "Knuth plays with ChatGPT 3.5"
 
 ## Donald Knuth Question #1: Tell me what Donald Knuth says to Stephen Wolfram about chatGPT.
 
